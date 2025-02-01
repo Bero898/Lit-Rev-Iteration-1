@@ -1,0 +1,11 @@
+2025-01-08 16:04:54 - File: DataProduct_bool.bib - Entry: FILE_LEVEL - Error: syntax error in line 5811: '=' expected
+2025-01-08 16:04:54 - File: DataProducts_nonbool.bib - Entry: FILE_LEVEL - Error: syntax error in line 5424: '=' expected
+2025-01-08 16:12:55 - File: DataProduct_bool.bib - Entry: FILE_LEVEL
+Error: syntax error in line 5811: '=' expected
+Line None: N/A
+
+2025-01-08 16:12:55 - File: DataProducts_nonbool.bib - Entry: FILE_LEVEL
+Error: syntax error in line 5424: '=' expected
+Line None: N/A
+
+2025-01-08 16:16:19 - File: DataProducts_nonbool.bib - Entry: FILE_LEVEL - Error: syntax error in line 5424: '=' expected
