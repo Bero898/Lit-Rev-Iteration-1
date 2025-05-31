@@ -1,6 +1,6 @@
 # Microservice Topic Modelling
 
-This repository contains code and data for performing topic modelling on academic articles related to microservices, using both IEEE and ACM sources. The workflow includes data preprocessing, merging datasets with different structures, and applying multiple topic modelling techniques (LDA, FLSA-W, BERTopic) with evaluation and visualization.
+This repository contains code and data for performing topic modelling on academic articles related to microservices, using both IEEE and ACM sources. The workflow includes data preprocessing, merging datasets with different structures, and applying multiple topic modelling techniques (BERTopic) with evaluation and visualization.
 
 ---
 
@@ -27,16 +27,7 @@ This repository contains code and data for performing topic modelling on academi
   Cleans, tokenizes, removes stopwords, and lemmatizes text from article titles and abstracts.
 
 - **Topic Modelling Methods:**  
-  - **LDA (Latent Dirichlet Allocation)**  
-  - **FLSA-W (Fuzzy Latent Semantic Analysis - Weighted)**
   - **BERTopic (Transformer-based topic modelling)**
-
-- **Evaluation:**  
-  Computes coherence, diversity, and interpretability metrics for topics.
-
-- **Visualization:**  
-  Plots topic distributions and saves articles per topic to CSV files.
-
 ---
 
 ## Setup
